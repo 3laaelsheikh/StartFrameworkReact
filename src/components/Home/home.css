@@ -1,0 +1,13 @@
+.home{
+    background-color: #1abc9c;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+img{
+    width: 250px;
+}
+.line{
+    background-color: white;
+    height: 4px;
+    width: 80px;
+}
